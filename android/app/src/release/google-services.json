@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137096922850",
+    "firebase_url": "https://teenfit-live.firebaseio.com",
+    "project_id": "teenfit-live",
+    "storage_bucket": "teenfit-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137096922850:android:f0fa44f03fe1ab836880bb",
+        "android_client_info": {
+          "package_name": "com.trigale.teenfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137096922850-1dl2d6t2jj10goa5evh4vdo4jrk8m96t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trigale.teenfit",
+            "certificate_hash": "eed70ccc2b7be17ec7b1c3c0949da98d13d49a50"
+          }
+        },
+        {
+          "client_id": "137096922850-n7o64csefckgrbultffa7nd3l9ututl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI6saNSLEwzPWCA_3OMTUzu_soWbkCzZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137096922850-n7o64csefckgrbultffa7nd3l9ututl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

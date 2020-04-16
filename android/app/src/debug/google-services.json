@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048930177160",
+    "firebase_url": "https://teenfit-a846e.firebaseio.com",
+    "project_id": "teenfit-a846e",
+    "storage_bucket": "teenfit-a846e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048930177160:android:770ab77b616b0aff088f3d",
+        "android_client_info": {
+          "package_name": "com.trigale.teenfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048930177160-1lj4ipp31da0phit3o1lv2n7hnugtgho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW6EFwJqJIEtMF01_ujsIxoU5qoe3g9oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048930177160-1lj4ipp31da0phit3o1lv2n7hnugtgho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
